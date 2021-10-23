@@ -6,6 +6,9 @@ Use of AWS services:
 * RDS;
 * Route53.
 
+![image](https://user-images.githubusercontent.com/57871748/138554755-448078c5-4887-462f-b5e3-c67e0b0ba021.png)
+
+
 # Open the necessary ports to run the application
 
 * Security groups:
