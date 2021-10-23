@@ -32,5 +32,7 @@ This server starts when you enter your own domain. This server is an integral pa
 
 * http://domain-name:8080/swagger-ui.html .
 
+* Swagger is used in conjunction with a set of open source software to design, create, document, and use RESTful web services. 
+* Swagger includes automated documentation, code generation and testing.
 
 
