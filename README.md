@@ -2,9 +2,9 @@
 
 Use of AWS services:
 
-* EC2;
-* RDS;
-* Route53.
+* **EC2**;
+* **RDS**;
+* **Route53**.
 
 ![image](https://user-images.githubusercontent.com/57871748/138554755-448078c5-4887-462f-b5e3-c67e0b0ba021.png)
 
@@ -21,7 +21,7 @@ If a database communication error occurs, you must add a rule to open port 3306.
 
 To connect to the database, you must specify its endpoint.
 
-* Check connection: mysql -h endpoint-name -u root -p .
+* Check connection: **mysql -h endpoint-name -u root -p** .
 
 ![image](https://user-images.githubusercontent.com/57871748/138554320-cd6c9a6e-e70e-4e83-a0cd-76054e9b225a.png)
 
