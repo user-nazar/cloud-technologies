@@ -62,7 +62,14 @@ This server starts when you enter your own domain. This server is an integral pa
 
 * **Writing queries to test http methods**.
 
+* DELETE.
+
 ![image](https://user-images.githubusercontent.com/57871748/138866321-dcbc6be4-0aea-4707-a1ea-c7a38a903305.png)
+
+* POST.
+
+![image](https://user-images.githubusercontent.com/57871748/138866729-196d75cd-75d7-43a3-90e2-749fbe2716cb.png)
+
 
 
 
