@@ -58,7 +58,11 @@ This server starts when you enter your own domain. This server is an integral pa
 
 ![image](https://user-images.githubusercontent.com/57871748/138863126-d11ad65e-f98c-4dc4-a431-cb2d04bff6d3.png)
 
+# SQL requests
 
+* **Writing queries to test http methods**.
+
+![image](https://user-images.githubusercontent.com/57871748/138866321-dcbc6be4-0aea-4707-a1ea-c7a38a903305.png)
 
 
 
