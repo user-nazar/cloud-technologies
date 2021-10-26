@@ -35,7 +35,30 @@ This server starts when you enter your own domain. This server is an integral pa
 
 * http://domain-name:8080/swagger-ui.html .
 
-* Swagger is used in conjunction with a set of open source software to design, create, document, and use RESTful web services. 
-* Swagger includes automated documentation, code generation and testing.
+* **Swagger is used in conjunction with a set of open source software to design, create, document, and use RESTful web services**. 
+* **Swagger includes automated documentation, code generation and testing**.
+
+![image](https://user-images.githubusercontent.com/57871748/138861918-3d4cd726-3fce-45e4-9ddf-05c79a0cb9cf.png)
+
+# HTTP Requests
+
+**GET**
+
+![image](https://user-images.githubusercontent.com/57871748/138862446-ae7bde44-d260-4785-a1b4-2e23b2de738f.png)
+
+**POST**
+
+![image](https://user-images.githubusercontent.com/57871748/138862763-128efa85-41d6-4703-b951-8a6802252f73.png)
+
+**DELETE**
+
+![image](https://user-images.githubusercontent.com/57871748/138863015-f869cf05-034e-4106-915a-59fdcaa706c8.png)
+
+**PUT**
+
+![image](https://user-images.githubusercontent.com/57871748/138863126-d11ad65e-f98c-4dc4-a431-cb2d04bff6d3.png)
+
+
+
 
 
